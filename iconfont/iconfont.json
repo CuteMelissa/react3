@@ -1,0 +1,44 @@
+{
+  "id": "2124152",
+  "name": "淘宝",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12115565",
+      "name": "恒星",
+      "font_class": "hengxing",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "12115566",
+      "name": "雷达",
+      "font_class": "leida",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "12115567",
+      "name": "宇宙飞船",
+      "font_class": "yuzhoufeichuan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "12115568",
+      "name": "宇航员",
+      "font_class": "yuhangyuan",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12115572",
+      "name": "外星人",
+      "font_class": "waixingren",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
